@@ -1,0 +1,898 @@
+﻿CustomerID,Age,Gender,Marital Status,Income
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('1'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('2'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('3'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('4'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('5'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('6'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('7'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('8'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('9'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('10'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('11'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('12'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('13'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('14'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('15'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('16'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('17'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('18'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('19'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('20'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('21'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('22'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('23'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('24'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('25'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('26'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('27'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('28'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('29'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('30'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('31'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('32'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('33'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('34'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('35'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('36'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('37'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('38'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('39'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('40'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('41'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('42'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('43'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('44'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('45'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('46'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('47'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('48'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('49'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('50'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('51'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('52'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('53'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('54'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('55'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('56'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('57'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('58'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('59'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('60'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('61'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('62'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('63'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('64'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('65'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('66'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('67'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('68'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('69'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('70'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('71'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('72'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('73'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('74'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('75'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('76'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('77'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('78'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('79'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('80'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('81'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('82'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('83'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('84'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('85'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('86'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('87'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('88'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('89'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('90'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('91'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('92'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('93'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('94'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('95'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('96'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('97'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('98'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('99'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('100'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('101'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('102'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('103'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('104'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('105'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('106'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('107'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('108'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('109'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('110'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('111'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('112'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('113'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('114'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('115'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('116'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('117'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('118'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('119'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('120'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('121'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('122'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('123'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('124'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('125'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('126'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('127'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('128'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('129'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('130'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('131'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('132'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('133'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('134'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('135'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('136'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('137'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('138'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('139'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('140'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('141'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('142'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('143'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('144'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('145'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('146'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('147'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('148'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('149'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('150'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('151'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('152'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('153'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('154'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('155'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('156'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('157'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('158'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('159'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('160'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('161'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('162'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('163'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('164'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('165'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('166'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('167'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('168'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('169'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('170'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('171'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('172'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('173'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('174'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('175'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('176'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('177'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('178'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('179'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('180'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('181'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('182'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('183'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('184'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('185'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('186'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('187'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('188'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('189'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('190'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('191'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('192'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('193'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('194'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('195'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('196'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('197'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('198'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('199'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('200'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('201'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('202'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('203'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('204'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('205'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('206'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('207'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('208'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('209'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('210'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('211'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('212'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('213'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('214'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('215'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('216'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('217'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('218'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('219'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('220'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('221'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('222'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('223'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('224'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('225'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('226'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('227'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('228'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('229'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('230'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('231'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('232'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('233'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('234'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('235'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('236'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('237'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('238'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('239'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('240'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('241'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('242'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('243'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('244'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('245'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('246'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('247'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('248'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('249'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('250'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('251'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('252'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('253'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('254'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('255'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('256'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('257'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('258'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('259'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('260'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('261'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('262'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('263'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('264'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('265'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('266'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('267'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('268'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('269'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('270'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('271'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('272'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('273'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('274'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('275'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('276'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('277'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('278'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('279'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('280'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('281'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('282'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('283'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('284'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('285'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('286'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('287'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('288'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('289'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('290'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('291'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('292'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('293'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('294'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('295'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('296'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('297'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('298'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('299'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('300'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('301'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('302'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('303'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('304'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('305'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('306'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('307'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('308'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('309'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('310'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('311'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('312'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('313'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('314'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('315'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('316'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('317'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('318'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('319'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('320'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('321'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('322'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('323'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('324'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('325'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('326'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('327'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('328'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('329'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('330'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('331'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('332'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('333'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('334'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('335'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('336'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('337'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('338'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('339'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('340'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('341'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('342'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('343'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('344'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('345'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('346'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('347'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('348'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('349'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('350'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('351'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('352'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('353'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('354'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('355'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('356'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('357'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('358'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('359'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('360'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('361'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('362'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('363'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('364'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('365'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('366'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('367'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('368'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('369'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('370'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('371'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('372'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('373'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('374'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('375'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('376'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('377'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('378'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('379'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('380'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('381'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('382'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('383'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('384'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('385'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('386'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('387'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('388'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('389'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('390'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('391'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('392'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('393'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('394'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('395'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('396'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('397'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('398'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('399'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('400'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('401'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('402'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('403'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('404'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('405'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('406'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('407'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('408'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('409'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('410'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('411'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('412'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('413'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('414'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('415'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('416'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('417'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('418'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('419'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('420'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('421'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('422'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('423'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('424'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('425'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('426'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('427'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('428'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('429'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('430'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('431'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('432'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('433'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('434'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('435'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('436'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('437'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('438'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('439'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('440'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('441'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('442'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('443'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('444'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('445'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('446'
+INSERT INTO MY_TABLE(CustomerID, Age, Gender," ""Marital Status""", Income) VALUES ('447'
+
+
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('1', '55', '1', 'Married', '5,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('2', '60', '1', 'Married', '6,23');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('3', '32', '1', 'Married', '9,17');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('4', '31', '1', 'Married', '4,87');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('5', '58', '1', 'Married', '3,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('6', '23', '0', 'Married', '2,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('7', '31', '0', 'Married', '4,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('8', '37', '1', 'Married', '5,49');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('9', '33', '0', 'Married', '9,92');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('10', '34', '1', null, '4');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('11', '42', '0', 'Married', '12,25');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('12', '2', '1', 'Married', '4,94');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('13', '23', '0', 'Single', '2,03');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('14', '58', '1', 'Married', '10,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('15', '30', '0', 'Married', '4,52');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('16', '52', '0', 'Married', '11,8');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('17', '35', '0', 'Married', '3,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('18', '47', '0', 'Married', '13,6');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('19', '24', '1', 'Single', '4,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('20', '43', '0', 'Married', '18,91');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('21', '52', '0', 'Married', '12,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('22', '34', '0', 'Single', '9,91');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('23', '57', '1', 'Married', '12,56');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('24', '37', '0', 'Married', '9,53');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('25', '24', '1', 'Married', '2,67');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('26', '45', '1', 'Married', '7,83');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('27', '43', '0', 'Married', '17,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('28', '55', '0', 'Married', '6,08');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('29', '59', '1', 'Married', '10,5');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('30', '37', '1', 'Single', '2,26');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('31', '38', '0', 'Married', '9,61');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('32', '34', '0', 'Married', '10,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('33', '53', '0', 'Married', '17,11');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('34', '45', '0', 'Married', '6,36');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('35', '48', '1', 'Married', '10,58');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('36', '32', '1', 'Married', '10,4');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('37', '51', '0', 'Married', '17,11');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('38', '56', '0', 'Married', '14,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('39', '66', '1', 'Married', '6,19');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('40', '19', '0', 'Single', '3,48');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('41', '51', '0', 'Married', '16,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('42', '60', '0', 'Married', '10,28');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('43', '53', '0', 'Married', '16,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('44', '40', '0', 'Married', '10,65');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('45', '53', '0', 'Married', '9,25');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('46', '36', '1', 'Married', '8,31');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('47', '35', '1', 'Married', '9,56');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('48', '32', '0', 'Married', '10,62');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('49', '44', '1', 'Married', '13,48');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('50', '31', '1', 'Married', '6,01');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('51', '36', '0', 'Married', '7,95');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('52', '37', '0', 'Married', '3,73');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('53', '32', '0', 'Married', '7,36');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('54', '42', '0', 'Single', '9,68');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('55', '34', '1', 'Married', '8,44');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('56', '20', '1', 'Single', '1');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('57', '33', '1', 'Married', '6,5');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('58', '27', '1', 'Married', '4,43');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('59', '46', '1', 'Married', '10,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('60', '56', '0', 'Married', '10,61');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('61', '40', '0', 'Married', '7');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('62', '51', '1', 'Married', '13,62');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('63', '58', '0', 'Married', '10,78');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('64', '48', '1', 'Married', '7,92');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('65', '38', '0', 'Married', '4,36');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('66', '37', '1', 'Married', '3,04');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('67', '19', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('68', '48', '1', 'Married', '17,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('69', '26', '0', 'Single', '2,84');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('70', '30', '1', 'Married', '4,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('71', '46', '0', 'Married', '12,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('72', '26', '0', 'Single', '1,81');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('73', '53', '0', 'Married', '13,71');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('74', '3', '1', 'Married', '5,09');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('75', '34', '0', 'Married', '9,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('76', '38', '1', 'Married', '7,88');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('77', '26', '0', 'Married', '4,67');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('78', '41', '1', 'Married', '10,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('79', '20', '1', 'Single', '1,6');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('80', '44', '0', 'Married', '13,45');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('81', '44', '0', 'Married', '19,49');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('82', '60', '1', 'Married', '6,24');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('83', '34', '1', 'Married', '10,88');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('84', '54', '0', 'Married', '18,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('85', '59', '1', 'Married', '7,89');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('86', '60', '1', 'Married', '9,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('87', '44', '1', 'Married', '9,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('88', '21', '0', 'Single', '2,97');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('89', '32', '0', 'Married', '9,68');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('90', '21', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('91', '59', '0', 'Married', '9,85');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('92', '60', '0', 'Married', '10,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('93', '32', '0', 'Married', '4,85');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('94', '53', '0', 'Married', '12,94');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('95', '52', '0', 'Married', '17,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('96', '55', '0', 'Married', '13,67');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('97', '51', '1', 'Married', '20,22');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('98', '56', '0', 'Married', '14,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('99', '40', '0', 'Married', '8,47');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('100', '45', '1', 'Married', '6,71');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('101', '61', '1', 'Married', '54,2');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('102', '39', '0', 'Married', '6,44');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('103', '31', '1', 'Single', '4,01');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('104', '31', '1', 'Married', '7,92');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('105', '61', '0', 'Married', '7,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('106', '24', '0', 'Single', '6,79');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('107', '38', '1', 'Married', '9,85');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('108', '25', '0', 'Single', '6,87');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('109', '35', '1', 'Married', '10,04');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('110', '19', '0', 'Married', '2,41');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('111', '59', '1', 'Married', '4,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('112', '31', '1', 'Married', '4,44');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('113', '57', '0', 'Married', '71,3');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('114', '22', '0', 'Single', '3,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('115', '39', '0', 'Married', '5,07');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('116', '51', '1', 'Married', '15,77');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('117', '45', '1', 'Married', '12,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('118', '20', '1', 'Single', '3,28');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('119', '26', '1', 'Single', '5,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('120', '30', '0', 'Married', '2,48');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('121', '26', '0', 'Single', '2,93');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('122', '26', '1', 'Single', '0,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('123', '34', '0', 'Married', '4,36');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('124', '28', '0', 'Single', '5,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('125', '55', '1', 'Married', '12,75');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('126', '56', '0', 'Married', '15,75');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('127', '27', '0', 'Married', '2,07');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('128', '0', '1', 'Married', '6,77');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('129', '35', '1', 'Single', '10,46');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('130', '40', '0', 'Married', '9,73');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('131', '25', '0', 'Single', '7,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('132', '41', '0', 'Married', '17,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('133', '47', '1', 'Married', '20,81');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('134', '50', '0', 'Married', '18,62');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('135', '41', '0', 'Married', '3,28');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('136', '28', '1', 'Married', '2,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('137', '34', '1', 'Married', '6,36');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('138', '37', '1', 'Married', '8,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('139', '38', '1', 'Married', '5,17');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('140', '54', '0', 'Married', '9,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('141', '65', '1', 'Married', '9,94');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('142', '23', '1', 'Single', '1,58');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('143', '25', '1', 'Single', '2,87');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('144', '34', '0', 'Married', '10,01');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('145', '37', '0', 'Single', '14,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('146', '27', '0', 'Married', '3,16');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('147', '59', '1', 'Married', '8,02');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('148', '45', '0', 'Married', '19,68');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('149', '61', '1', 'Married', '3,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('150', '61', '1', 'Married', '8,56');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('151', '42', '0', 'Married', '10,38');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('152', '59', '1', 'Married', '10,68');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('153', '36', '1', 'Married', '9,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('154', '31', '0', 'Married', '8,36');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('155', '40', '0', 'Married', '7,17');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('156', '44', '0', 'Married', '3,87');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('157', '44', '0', 'Single', '2,52');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('158', '49', '1', 'Married', '5,6');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('159', '53', '1', 'Married', '13,65');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('160', '48', '1', 'Married', '12,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('161', '41', '0', 'Married', '20,02');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('162', '49', '0', 'Married', '11,46');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('163', '47', '1', 'Married', '6,3');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('164', '18', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('165', '44', '1', 'Married', '14,58');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('166', '33', '0', 'Married', '3,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('167', '28', '1', 'Married', '2,91');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('168', '27', '0', 'Married', '4,88');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('169', '34', '0', 'Married', '3,97');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('170', '36', '0', 'Married', '7,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('171', '40', '0', 'Married', '10,05');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('172', '57', '1', 'Married', '8,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('173', '59', '0', 'Married', '4,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('174', '45', '1', 'Married', '17,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('175', '60', '0', 'Married', '9,7');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('176', '54', '1', 'Married', '18,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('177', '33', '1', 'Married', '8,06');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('178', '43', '0', 'Married', '9,58');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('179', '25', '1', 'Single', '5,95');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('180', '22', '1', 'Married', '4,07');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('181', '33', '1', 'Married', '9,94');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('182', '44', '1', 'Married', '14,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('183', '27', '1', 'Single', '0,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('184', '33', '0', 'Single', '13,93');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('185', '30', '1', 'Married', '3,28');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('186', '34', '1', 'Married', '4,02');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('187', '49', '1', 'Married', '9,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('188', '46', '1', 'Married', '25,22');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('189', '59', '1', 'Single', '5,15');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('190', '34', '1', 'Married', '8,85');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('191', '35', '1', 'Married', '8,3');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('192', '26', '0', 'Single', '4,47');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('193', '42', '0', 'Married', '20,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('194', '31', '1', 'Married', '4,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('195', '31', '1', 'Married', '10,91');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('196', '34', '0', 'Married', '3,17');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('197', '51', '0', 'Married', '13,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('198', '45', '0', 'Married', '10,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('199', '41', '0', 'Married', '7,9');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('200', '25', '0', 'Married', '2,39');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('201', '57', '0', 'Married', '6,87');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('202', '28', '0', 'Married', '4,53');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('203', '53', '0', 'Married', '17,2');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('204', '53', '0', 'Married', '9,46');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('205', '46', '0', 'Married', '3,83');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('206', '68', '0', 'Married', '8,3');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('207', '35', '1', 'Married', '10,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('208', '39', '1', 'Married', '7,52');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('209', '47', '0', 'Single', '2,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('210', '33', '0', 'Married', '10,9');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('211', '29', '0', 'Married', '3,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('212', '36', '0', 'Married', '7,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('213', '24', '1', 'Single', '5,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('214', '52', '0', 'Married', '13,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('215', '25', '0', 'Single', '5,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('216', '30', '0', 'Married', '4,82');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('217', '39', '1', 'Single', '6,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('218', '29', '0', 'Married', '3,52');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('219', '39', '0', 'Single', '9,73');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('220', '45', '0', 'Married', '16,35');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('221', '23', '1', 'Single', '7,5');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('222', '45', '0', 'Married', '15,03');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('223', '62', '1', 'Single', '5,35');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('224', '29', '0', 'Married', '3,31');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('225', '59', '1', 'Married', '10,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('226', '18', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('227', '33', '0', 'Married', '7,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('228', '46', '0', 'Married', '11,31');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('229', '32', '0', 'Married', '10,17');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('230', '40', '1', 'Married', '4,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('231', '51', '1', 'Married', '16,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('232', '62', '0', 'Married', '7,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('233', '43', '1', 'Married', '5,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('234', '61', '1', 'Married', '10,86');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('235', '37', '0', 'Married', '5,35');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('236', '28', '0', 'Married', '3,13');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('237', '35', '1', 'Married', '8,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('238', '26', '0', 'Single', '6,61');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('239', '41', '1', 'Married', '6,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('240', '22', '1', 'Single', '3,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('241', '24', '1', 'Single', '0,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('242', '56', '1', 'Married', '6,98');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('243', '38', '0', 'Married', '3,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('244', '21', '1', 'Single', '3,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('245', '26', '1', 'Married', '4,58');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('246', '40', '1', 'Single', '21,81');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('247', '33', '1', 'Married', '8,11');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('248', '36', '1', 'Married', '5,76');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('249', '47', '0', 'Married', '13,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('250', '30', '1', 'Married', '3,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('251', '45', '1', 'Married', '3,38');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('252', '18', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('253', '37', '0', 'Married', '4,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('254', '58', '0', 'Single', '6,05');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('255', '24', '1', 'Single', '5,78');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('256', '56', '0', 'Married', '7,09');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('257', '60', '0', 'Married', '4,25');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('258', '51', '0', 'Married', '12,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('259', '59', '1', 'Married', '4,44');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('260', '33', '0', 'Single', '6,65');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('261', '46', '0', 'Single', '5,89');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('262', '34', '1', 'Married', '5,61');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('263', '40', '1', 'Married', '10,21');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('264', '21', '1', 'Single', '1,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('265', '62', '1', 'Married', '9,07');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('266', '72', '1', 'Married', '4,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('267', '22', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('268', '49', '1', 'Single', '5,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('269', '39', '1', 'Married', '6,3');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('270', '49', '1', 'Married', '8,81');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('271', '29', '0', 'Married', '4,74');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('272', '60', '0', 'Married', '4,05');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('273', '27', '1', 'Married', '3,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('274', '48', '0', 'Married', '11,99');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('275', '41', '0', 'Married', '15,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('276', '31', '1', 'Married', '8,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('277', '60', '1', 'Married', '9,38');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('278', '31', '1', 'Married', '9,76');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('279', '62', '0', 'Married', '5,35');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('280', '60', '1', 'Married', '9,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('281', '35', '0', 'Married', '3,03');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('282', '55', '0', 'Married', '11,38');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('283', '19', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('284', '49', '1', 'Married', '11,31');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('285', '20', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('286', '60', '0', 'Married', '6,19');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('287', '36', '0', 'Single', '3,7');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('288', '22', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('289', '29', '0', 'Married', '2,37');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('290', '19', '1', 'Single', '0,98');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('291', '49', '0', 'Married', '19,98');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('292', '31', '0', 'Single', '9,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('293', '54', '0', 'Married', '10,4');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('294', '54', '1', 'Married', '19,07');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('295', '34', '0', 'Married', '4,78');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('296', '38', '1', 'Single', '3,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('297', '41', '1', 'Married', '12,13');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('298', '38', '1', 'Married', '8,99');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('299', '37', '1', 'Married', '4,54');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('300', '25', '1', 'Single', '4,22');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('301', '60', '0', 'Married', '8,97');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('302', '51', '0', 'Married', '15,43');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('303', '45', '0', 'Married', '10,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('304', '34', '0', 'Single', '8,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('305', '29', '1', 'Married', '4,08');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('306', '49', '0', 'Married', '16,52');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('307', '31', '0', 'Married', '5,22');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('308', '45', '0', 'Married', '10,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('309', '23', '0', 'Single', '3,03');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('310', '23', '0', 'Married', '4,17');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('311', '61', '1', 'Married', '7,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('312', '54', '0', 'Married', '18,77');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('313', '46', '0', 'Married', '15,39');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('314', '35', '0', 'Married', '6,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('315', '29', '1', 'Married', '4,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('316', '45', '0', 'Married', '9,49');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('317', '55', '0', 'Married', '13,89');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('318', '18', '0', 'Single', '3,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('319', '39', '0', 'Married', '8,82');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('320', '30', '0', 'Married', '3,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('321', '45', '0', 'Married', '8,03');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('322', '41', '0', 'Married', '20,01');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('323', '58', '0', 'Married', '10,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('324', '36', '1', 'Married', '10,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('325', '37', '0', 'Single', '3,25');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('326', '24', '1', 'Single', '2,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('327', '50', '0', 'Married', '12,41');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('328', '36', '0', 'Married', '10,53');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('329', '19', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('330', '61', '1', 'Married', '7');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('331', '54', '0', 'Married', '16,19');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('332', '28', '1', 'Single', '6,91');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('333', '47', '0', 'Married', '17,99');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('334', '70', '0', 'Married', '5,99');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('335', '29', '1', 'Single', '4,74');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('336', '51', '0', 'Single', '10,84');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('337', '43', '1', 'Married', '5,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('338', '46', '1', 'Married', '5,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('339', '22', '0', 'Single', '2,19');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('340', '41', '0', 'Single', '10,9');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('341', '43', '1', 'Married', '3,24');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('342', '48', '1', 'Married', '13,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('343', '29', '0', 'Married', '2,26');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('344', '47', '1', 'Married', '5,63');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('345', '31', '0', 'Married', '5,06');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('346', '62', '0', 'Married', '5,08');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('347', '26', '1', 'Single', '3,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('348', '29', '1', 'Married', '4,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('349', '37', '0', 'Married', '5,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('350', '38', '0', 'Single', '7,95');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('351', '45', '1', 'Married', '18,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('352', '69', '0', 'Single', '6,15');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('353', '25', '0', 'Single', '1,32');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('354', '53', '1', 'Married', '16,94');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('355', '19', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('356', '56', '0', 'Married', '13,25');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('357', '48', '0', 'Married', '18,14');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('358', '32', '1', 'Married', '3,2');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('359', '46', '0', 'Married', '19,99');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('360', '54', '0', 'Married', '35,78');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('361', '26', '1', 'Single', '0,06');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('362', '25', '0', 'Single', '7,47');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('363', '35', '0', 'Married', '6,05');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('364', '27', '1', 'Married', '3,41');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('365', '28', '0', 'Single', '6,05');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('366', '18', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('367', '43', '0', 'Married', '10,96');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('368', '44', '0', 'Married', '16,13');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('369', '32', '0', 'Married', '10,62');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('370', '26', '1', 'Single', '1,28');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('371', '25', '0', 'Married', '3,06');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('372', '31', '1', 'Married', '6,19');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('373', '55', '1', 'Married', '14,59');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('374', '32', '0', 'Single', '5,4');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('375', '58', '0', 'Married', '8,39');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('376', '44', '0', 'Married', '14,65');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('377', '53', '0', 'Single', '10,39');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('378', '54', '0', 'Married', '14,66');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('379', '48', '1', 'Married', '17,74');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('380', '40', '0', 'Married', '5,77');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('381', '39', '0', 'Married', '6,92');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('382', '54', '0', 'Married', '15,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('383', '39', '0', 'Married', '3,27');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('384', '59', '1', 'Married', '4,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('385', '41', '1', 'Married', '15,84');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('386', '33', '0', 'Married', '6,95');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('387', '36', '0', 'Married', '9,1');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('388', '44', '1', 'Married', '16,12');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('389', '30', '1', 'Married', '3,72');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('390', '20', '1', 'Single', '3,7');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('391', '26', '0', 'Married', '4,98');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('392', '45', '0', 'Married', '19,68');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('393', '22', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('394', '50', '0', 'Married', '7,19');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('395', '28', '0', 'Married', '3,39');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('396', '36', '1', 'Married', '9,18');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('397', '24', '0', 'Single', '6,42');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('398', '33', '0', 'Married', '7,44');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('399', '52', '1', 'Single', '33,77');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('400', '23', '1', 'Single', '2,79');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('401', '45', '0', 'Married', '4,08');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('402', '51', '0', 'Married', '17,65');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('403', '30', '0', 'Married', '4,06');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('404', '22', '0', 'Single', '2,69');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('405', '18', '0', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('406', '38', '1', 'Married', '8,64');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('407', '53', '1', 'Married', '9,27');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('408', '34', '1', 'Married', '9,45');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('409', '47', '0', 'Married', '28,23');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('410', '55', '1', 'Married', '8,68');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('411', '19', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('412', '18', '1', 'Single', '0');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('413', '31', '0', 'Married', '8,8');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('414', '21', '1', 'Single', '0,74');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('415', '44', '0', 'Married', '18,57');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('416', '27', '1', null, '3,43');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('417', '47', '1', 'Married', '12,75');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('418', '45', '0', 'Single', '23,84');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('419', '38', '1', 'Married', '3,86');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('420', '48', '1', 'Single', '6,01');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('421', '35', '0', 'Married', '9,01');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('422', '21', '1', 'Single', '3,88');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('423', '22', '0', 'Married', '3,55');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('424', '38', '0', 'Married', '10,06');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('425', '58', '1', 'Married', '7,22');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('426', '19', '0', 'Single', '2,16');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('427', '54', '0', 'Married', '16,88');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('428', '60', '1', 'Married', '4,49');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('429', '37', '1', 'Married', '8,97');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('430', '55', '1', 'Single', '18,37');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('431', '40', '1', 'Married', '9,51');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('432', '35', '1', 'Married', '9,79');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('433', '48', '1', 'Married', '11,97');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('434', '37', '0', 'Married', '9,33');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('435', '29', '1', 'Married', '3,61');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('436', '51', '1', 'Married', '18,89');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('437', '33', '1', 'Married', '3,49');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('438', '36', '1', 'Single', '5,43');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('439', '35', '0', 'Single', '12,34');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('440', '40', '0', 'Married', '3,47');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('441', '19', '0', 'Single', '2,66');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('442', '42', '1', 'Married', '14,88');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('443', '33', '1', null, '9,28');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('444', '53', '0', 'Married', '15,31');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('445', '51', '0', 'Married', '14,48');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('446', '57', '0', 'Married', '7,81');
+INSERT INTO MY_TABLE(CustomerID, Age, Gender, "Marital Status", Income) VALUES ('447', '54', '1', 'Married', '20,37');
+
